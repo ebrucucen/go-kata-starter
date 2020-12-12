@@ -59,3 +59,7 @@ ok      github.com/go-kata-starter/trialBigOClient/trialBigOWithoutElse 1.799s
 PASS
 ok      github.com/go-kata-starter/trialBigOClient/trialBigOWithoutElse 1.620s
 ```
+
+# PProf
+
+This branch is an attempt to validate and [pprof tool]( https://blog.golang.org/pprof) to get the performance metrics out, inspired by this [blogpost](https://medium.com/@lightcone/how-to-profile-go-programs-c6c00e8f2ebf).
