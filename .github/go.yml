@@ -1,10 +1,10 @@
-name: GoBreakout
+name: CI
 
 on:
   push:
-    branches: [ performance-testing-pprof ]
+    branches: [ performance-testing-benchmark ]
   pull_request:
-    branches: [ performance-testing-pprof ]
+    branches: [ performance-testing-benchmark ]
 
 jobs:
 
