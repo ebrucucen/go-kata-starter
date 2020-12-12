@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/go-kata-starter/trialBigOClient/trialBigOWithElse"
-	"github.com/go-kata-starter/trialBigOClient/trialBigOWithoutElse"
+	"github.com/ebrucucen/go-kata-starter/trialBigOWithElse"
+	"github.com/ebrucucen/go-kata-starter/trialBigOWithoutElse"
 )
 
 func main() {
